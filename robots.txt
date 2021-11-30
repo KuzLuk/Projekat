@@ -1,0 +1,2 @@
+User-agent: *
+Disallow:https://github.com/KuzLuk/Projekat/blob/main/kontakt.html
